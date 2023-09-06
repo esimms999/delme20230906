@@ -12,7 +12,7 @@ add_two_numbers(num1, num2)
 \item{num2}{numeric value}
 }
 \value{
-numeric value
+numeric value which is the sum of two numbers
 }
 \description{
 Function to add two numbers
