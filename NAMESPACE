@@ -2,3 +2,4 @@
 
 export(add_two_numbers)
 export(multiply_two_numbers)
+export(subtract_two_numbers)
