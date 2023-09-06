@@ -3,7 +3,7 @@
 #' @param num1 numeric value
 #' @param num2 numeric value
 #'
-#' @return numeric value
+#' @return numeric value which is the sum of two numbers
 #' @export
 #'
 #' @examples add_two_numbers(7, 11)
